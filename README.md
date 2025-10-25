@@ -11,5 +11,5 @@ cd dockercom
 vi windows10.yml
 
 ## Run the Docker
-Start Docker Machine
-sudo docker-compose -f windows10.yml up
+# Start Docker Machine
+# sudo docker-compose -f windows10.yml up
