@@ -6,7 +6,7 @@ sudo apt update
 sudo apt install docker.io docker-compose
 mkdir dockercom
 cd dockercom
-## Copy the code from https://docs.google.com/document/d/1v67e8-Rw7ngjWU9r_QLQEkTOudrzsdDQMrqKvcse310/edit?pli=1&tab=t.0,
+## Copy the code from https://youtu.be/sbwGtNUtIWQ?t=86,
 ## and Paste in the windows10.yml
 vi windows10.yml
 
